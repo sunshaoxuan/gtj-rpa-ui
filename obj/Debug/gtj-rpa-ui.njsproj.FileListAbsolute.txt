@@ -1,0 +1,3 @@
+C:\WorkSpace\gtj-rpa-ui\obj\Debug\gtj-rpa-ui.njsproj.AssemblyReference.cache
+C:\WorkSpace\gtj-rpa-ui\obj\Debug\gtj-rpa-ui.njsproj.CoreCompileInputs.cache
+C:\WorkSpace\gtj-rpa-ui\bin\Microsoft.NodejsTools.WebRole.dll
